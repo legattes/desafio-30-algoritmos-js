@@ -12,11 +12,11 @@ Para realizar esse cálculo você deve elevar ao quadrado cada algarismo do núm
 Escreva uma função que recebe um número inteiro qualquer, eleve ao quadrado cada um de seus algarismos e depois concatene o resultado retornando um único número inteiro.
 
 # Testes
-- Entrada: (3514)
+- Entrada: 3514
   - Saída: 925116
-- Entrada: (94571)
+- Entrada: 94571
   - Saída: 811625494
-- Entrada: (24)
+- Entrada: 24
   - Saída: 416
-- Entrada: (745821698)
+- Entrada: 745821698
   - Saída: 4916256441368164

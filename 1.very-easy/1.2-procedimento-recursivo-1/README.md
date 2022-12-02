@@ -10,11 +10,11 @@ Para isso, em um determinado momento, você precisou simular a criação de bloc
 Escreva uma função que recebe um número e retorna uma quantidade equivalente de "chunks" separados por um traço "-" sem utilizar nenhuma estrutura de repetição (while, dowhile, for, etc).
 
 # Testes
-- Entrada: (4)
+- Entrada: 4
   - Saída: "chunk-chunk-chunk-chunk"
-- Entrada: (1)
+- Entrada: 1
   - Saída: "chunk"
-- Entrada: (8)
+- Entrada: 8
   - Saída: “chunk-chunk-chunk-chunk-chunk-chunk-chunk-chunk"
-- Entrada: (2)
+- Entrada: 2
   - Saída: "chunk-chunk"

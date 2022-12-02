@@ -12,11 +12,11 @@ Escreva uma função que recebe uma string e retorna cada palavra da string inve
 Assuma que a string não possui nenhuma letra com acento, número ou caractere especial, apenas letras e espaços.
 
 # Testes
-- Entrada: ("Lorem ipsum dolore sec avanti")
+- Entrada: "Lorem ipsum dolore sec avanti"
   - Saída: "merol muspi erolod ces itnava"
-- Entrada: ("This is an apple")
+- Entrada: "This is an apple"
   - Saída: "siht sina elppa"
-- Entrada: ("May the force be with you")
+- Entrada: "May the force be with you"
   - Saída: "yam eht ecrof eb htiw uoy"
-- Entrada: ("Its over nine thousand")
+- Entrada: "Its over nine thousand"
   - Saída: "tis revo enin dnasuoht"

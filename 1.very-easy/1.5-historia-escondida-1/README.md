@@ -13,11 +13,11 @@ Escreva uma função que recebe uma String e retorna a maior letra segundo a ord
 Assuma que a String nao possúi nenhuma letra com acento, número ou caractere especial, apenas letras e espaços.
 
 # Testes
-- Entrada: ("Lorem ipsum dolore sec avanti")
+- Entrada: "Lorem ipsum dolore sec avanti"
   - Saída: "v"
-- Entrada: ("Hello")
+- Entrada: "Hello"
   - Saída: "o"
-- Entrada: ("May the force be with you")
+- Entrada: "May the force be with you"
   - Saída: "y"
-- Entrada: ("Its over nine thousand")
+- Entrada: "Its over nine thousand"
   - Saída: "v"
