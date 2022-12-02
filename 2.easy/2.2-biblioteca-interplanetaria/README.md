@@ -10,11 +10,11 @@ A direção da biblioteca precisa que você crie um programa para converter o no
 Escreva uma função que recebe uma string contendo um nome completo e retorna uma string com todos os nomes, exceto o último, abreviados e o último nome em letras maiúsculas antes das abreviações separado por vírgula.
 
 # Testes
-- Entrada: ("Isaac Larrubia Ferreira Pontes")
+- Entrada: "Isaac Larrubia Ferreira Pontes"
   - Saída: "PONTES, I. L. F"
-- Entrada: ("John Ronald Reuel Tolkien")
+- Entrada: "John Ronald Reuel Tolkien"
   - Saída: "TOLKIEN, J. R. R."
-- Entrada: ("christopher james paolini")
+- Entrada: "christopher james paolini"
   - Saída: "PAOLINI, C. J."
-- Entrada: ("Suzanne Marie Collins")
+- Entrada: "Suzanne Marie Collins"
   - Saída: "COLLINS, S. M."

@@ -1,5 +1,5 @@
 # Assuntos
-- trings
+- Strings
 - Matemática
 
 # 13. Código de Identificação de Nave
@@ -15,11 +15,11 @@ Escreva uma função que recebe um número e verifica se ele é um código de id
 5. Se o resto da divisão for 0, o dígito verificador é 0, do contrário o dígito verificador é 10 - resto
 
 # Testes
-- Entrada: (547020743789)
+- Entrada: 547020743789
   - Saída: true
-- Entrada: (301354030348)
+- Entrada: 301354030348
   - Saída: true
-- Entrada: (301354030349)
+- Entrada: 301354030349
   - Saída: false
-- Entrada: (123456789872)
+- Entrada: 123456789872
   - Saída: false

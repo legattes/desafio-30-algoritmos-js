@@ -12,11 +12,11 @@ Escreva uma função que recebe um número e retorna o seu fatorial sem utilizar
 O fatorial de um número é igual a multiplicação de todos os inteiros positivos menores ou iguais a ele. Ela deve ser capaz de retornar números inteiros corretos mesmo para valores altos.
 
 # Testes
-- Entrada: (5)
+- Entrada: 5
   - Saída: 120n
-- Entrada: (0)
+- Entrada: 0
   - Saída: 1n
-- Entrada: (32)
+- Entrada: 32
   - Saída: 263130836933693530167218012160000000n
-- Entrada: (9n)
+- Entrada: 9n
   - Saída: 362880n

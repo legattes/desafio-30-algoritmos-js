@@ -10,11 +10,11 @@ Uma dessas validações envolve um código que deve possuir a mesma quantidade d
 Escreva uma função que recebe uma string, verifica se ela possui a mesma quantidade de cada letra que a compõe e retorna true caso possua ou false caso não possua.
 
 # Testes
-- Entrada: ("This is Thee")
+- Entrada: "This is Thee"
   - Saída: true
-- Entrada: ("ssd")
+- Entrada: "ssd"
   - Saída: false
-- Entrada: ("Lorem ipsum")
+- Entrada: "Lorem ipsum"
   - Saída: false
-- Entrada: ("QQwweerrttyy")
+- Entrada: "QQwweerrttyy"
   - Saída: true

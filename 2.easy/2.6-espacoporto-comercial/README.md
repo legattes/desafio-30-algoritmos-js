@@ -11,11 +11,11 @@ Escreva uma função que receba um valor inteiro e retorne a quantidade de cada 
 Deve-se sempre priorizar as moedas de maior valor (o máximo possível de moedas de 500, depois o máximo possível de moedas de 100, etc).
 
 # Testes
-- Entrada: (478)
+- Entrada: 478
   - Saída: {"1": 3, "5": 0, "10": 0, "25": 3, "100": 4, "500": 0}
-- Entrada: (384)
+- Entrada: 384
   - Saída: {"1": 4, "5": 1, "10": 0, "25": 3, "100": 3, "500": 0}
-- Entrada: (5412)
+- Entrada: 5412
   - Saída: {"1": 2, "5": 0, "10": 1, "25": 0, "100": 4, "500": 10 }
-- Entrada: (50)
+- Entrada: 50
   - Saída: { "1": 0, "5": 0, "10": 0, "25": 2, "100": 0, "500": 0}
