@@ -11,11 +11,11 @@ Para estender suas funcionalidades, foi solicitado que você crie um procediment
 Escreva uma função que recebe um array e retorne um novo array com todas as posições invertidas do original sem alterá-lo. Não utilize os métodos do objeto global Array do javascript (reverse, map, forEach, etc).
 
 # Testes
--Entrada:[0, 9, 6, 8, 9, 1, 5, 7]
--- Saida: [7, 5, 1, 9, 8, 6, 9, 0]
+- Entrada: [0, 9, 6, 8, 9, 1, 5, 7]
+  - Saida: [7, 5, 1, 9, 8, 6, 9, 0]
 - Entrada: ["Oh", "Hi", "Mark"]
--- Saida: ["Mark", "Hi", "Oh"]
+  - Saida: ["Mark", "Hi", "Oh"]
 - Entrada: [false, true, true, true]
--- Saida: [true, true, true, false]
+  - Saida: [true, true, true, false]
 - Entrada: ["It's", "not", true, 0]
--- Saida: [0, true, "not", "It's"]
+  - Saida: [0, true, "not", "It's"]

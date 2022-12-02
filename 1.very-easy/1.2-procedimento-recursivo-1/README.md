@@ -11,10 +11,10 @@ Escreva uma função que recebe um número e retorna uma quantidade equivalente 
 
 # Testes
 - Entrada: (4)
--- Saída: "chunk-chunk-chunk-chunk"
+  - Saída: "chunk-chunk-chunk-chunk"
 - Entrada: (1)
--- Saída: "chunk"
+  - Saída: "chunk"
 - Entrada: (8)
--- Saída: “chunk-chunk-chunk-chunk-chunk-chunk-chunk-chunk"
+  - Saída: “chunk-chunk-chunk-chunk-chunk-chunk-chunk-chunk"
 - Entrada: (2)
--- Saída: "chunk-chunk" 
+  - Saída: "chunk-chunk"

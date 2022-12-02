@@ -13,10 +13,10 @@ Escreva uma função que recebe um número inteiro qualquer, eleve ao quadrado c
 
 # Testes
 - Entrada: (3514)
--- Saída: 925116
+  - Saída: 925116
 - Entrada: (94571)
--- Saída: 811625494
+  - Saída: 811625494
 - Entrada: (24)
--- Saída: 416
+  - Saída: 416
 - Entrada: (745821698)
--- Saída: 4916256441368164 
+  - Saída: 4916256441368164

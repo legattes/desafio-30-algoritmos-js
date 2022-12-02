@@ -2,7 +2,7 @@
 - Strings
 - Arrays
 
-# 6. História Escondida 2
+# 6. História Escondida II
 Ainda analisando as tabuletas do planeta Ondur, dessa vez o pesquisador encontrou um padrão diferente nos escritos.
 Ele agora precisa que você atualize o programa para ser capaz de ler esse novo padrão.
 Para isso, o programa precisa ser capaz de inverter as palavras dos trechos dos escritos, porém sem alterar a ordem em que elas estão escritas.
@@ -13,10 +13,10 @@ Assuma que a string não possui nenhuma letra com acento, número ou caractere e
 
 # Testes
 - Entrada: ("Lorem ipsum dolore sec avanti")
--- Saída: "merol muspi erolod ces itnava"
+  - Saída: "merol muspi erolod ces itnava"
 - Entrada: ("This is an apple")
--- Saída: "siht sina elppa"
+  - Saída: "siht sina elppa"
 - Entrada: ("May the force be with you")
--- Saída: "yam eht ecrof eb htiw uoy"
+  - Saída: "yam eht ecrof eb htiw uoy"
 - Entrada: ("Its over nine thousand")
--- Saída: "tis revo enin dnasuoht"
+  - Saída: "tis revo enin dnasuoht"

@@ -2,7 +2,7 @@
 - Arrays
 - Strings
 
-# 5. Historia Escondida 1
+# 5. Historia Escondida I
 Durante uma missão de exploraçãoo no planeta Ondur a tropa de reconhecimento encontrou tabuletas contendo escritos de uma antiga civilizacao, mas ao traduzir seu conteúdo as mensagens nao faziam sentido.
 Porém, um pesquisador que estudava os escritos percebeu que poderiam haver mensagens escondidas.
 Como os escritos eram muitos e para poder analisar melhor ele solicitou que você criasse um programa que o ajudasse a encontrar a história escondida contada pelas tabuletas.
@@ -14,10 +14,10 @@ Assuma que a String nao possúi nenhuma letra com acento, número ou caractere e
 
 # Testes
 - Entrada: ("Lorem ipsum dolore sec avanti")
--- Saída: "v"
+  - Saída: "v"
 - Entrada: ("Hello")
--- Saída: "o"
+  - Saída: "o"
 - Entrada: ("May the force be with you")
--- Saída: "y"
+  - Saída: "y"
 - Entrada: ("Its over nine thousand")
--- Saída: "v"
+  - Saída: "v"
